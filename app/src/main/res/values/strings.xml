@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Get Follower</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login_btn">Login</string>
+    <string name="settings_drawer">Settings</string>
+    <string name="comment">comment</string>
+    <string name="open_drawer">Open Drawer</string>
+    <string name="close_drawer">Close Drawer</string>
+    <string name="source_btn">Source</string>
+    <string name="comment_btn">Comments</string>
+    <string name="action_btn">Action</string>
+    <string name="other_btn">Other</string>
+    <string name="comment_input">enter your comment</string>
+    <string name="follow_chkbox">Follow</string>
+    <string name="comment_chkbox">Comment</string>
+    <string name="like_chkbox">Like</string>
+    <string name="action_title">Please select your wanted actions</string>
+    <string name="other_title">Fill this parameter</string>
+    <string name="other_private">Follow private account</string>
+    <string name="other_unfollow">Unfollow after</string>
+    <string name="other_fetch">Fetch in start(x1000)</string>
+    <string name="logout_drawer">Logout</string>
+</resources>
